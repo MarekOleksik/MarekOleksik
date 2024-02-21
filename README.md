@@ -4,7 +4,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarekOleksik&repo=Warcaby)](https://github.com/MarekOleksik/Warcaby)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarekOleksik)](https://github.com/MarekOleksik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarekOleksik&layout=donut)](https://github.com/MarekOleksik/github-readme-stats)
 
 <!--
 **MarekOleksik/MarekOleksik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

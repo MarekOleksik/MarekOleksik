@@ -2,7 +2,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarekOleksik&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarekOleksik&repo=github-readme-stats)](https://github.com/MarekOleksik/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarekOleksik&repo=Warcaby)](https://github.com/MarekOleksik/Warcaby)
 
 <!--
 **MarekOleksik/MarekOleksik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

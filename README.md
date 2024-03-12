@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<!--TH_Stats:start-->
+<!--TH_Stats:end-->
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarekOleksik&show_icons=true&theme=radical&count-private=true)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarekOleksik&repo=Warcaby)](https://github.com/MarekOleksik/Warcaby)

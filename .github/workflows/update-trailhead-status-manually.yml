@@ -22,3 +22,4 @@ jobs:
           display-type: text
           display-file: 'README.md'
           file-format: 'md' 
+          output-only: true

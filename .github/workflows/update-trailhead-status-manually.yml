@@ -19,6 +19,6 @@ jobs:
       - uses: nabondance/trailhead-stats@v1.0.1
         with:
           trailhead-username: 'marek.oleksik@gmail.com'
-          display-type: card
+          display-type: text
           display-file: 'README.md'
           file-format: 'md' 

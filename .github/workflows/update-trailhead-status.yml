@@ -16,3 +16,5 @@ jobs:
         with:
           trailhead-username: 'moleksik'
           display-type: card
+          display-file: 'README.md'
+          file-format: 'md' 

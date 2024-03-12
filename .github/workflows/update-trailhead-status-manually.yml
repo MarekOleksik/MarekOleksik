@@ -1,4 +1,4 @@
-name: Update Trailhead Stats
+name: Update Trailhead Stats Manually
 
 on:
   workflow_dispatch:
@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v4
       - uses: nabondance/trailhead-stats@v1.0.1
         with:
-          trailhead-username: 'moleksik'
+          trailhead-username: 'marek.oleksik@gmail.com'
           display-type: card
           display-file: 'README.md'
           file-format: 'md' 

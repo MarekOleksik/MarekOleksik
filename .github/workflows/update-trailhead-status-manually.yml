@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       tags:
-        description: 'Update traihlead stats'
+        description: 'Update trailhead stats'
         required: false
         type: boolean
 
@@ -19,7 +19,4 @@ jobs:
       - uses: nabondance/trailhead-stats@v1.0.1
         with:
           trailhead-username: 'marek.oleksik@gmail.com'
-          display-type: text
-          display-file: 'README.md'
-          file-format: 'md' 
-          output-only: true
+

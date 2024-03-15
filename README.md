@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--TH_Stats:start-->
-
+![Trailhead-Stats](images/TScard.png)
 <!--TH_Stats:end-->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarekOleksik&show_icons=true&theme=radical&count-private=true)

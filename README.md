@@ -4,11 +4,11 @@
 ![Trailhead-Stats](images/TScard.png)
 <!--TH_Stats:end-->
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarekOleksik&repo=Camp-Apex-Green-Guardian)](https://github.com/MarekOleksik/Camp-Apex-Green-Guardian)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarekOleksik&show_icons=true&theme=radical&count-private=true)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarekOleksik&repo=Warcaby)](https://github.com/MarekOleksik/Warcaby)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarekOleksik&repo=Camp-Apex-Green-Guardian)](https://github.com/MarekOleksik/Camp-Apex-Green-Guardian)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarekOleksik&layout=pie&count-private=true)](https://github.com/MarekOleksik/github-readme-stats)
 

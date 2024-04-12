@@ -7,7 +7,7 @@ My name is Marek Oleksik, and I am passionate about Salesforce solutions and pro
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarekOleksik&repo=Camp-Apex-Green-Guardian)](https://github.com/MarekOleksik/Camp-Apex-Green-Guardian)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarekOleksik&repo=Camp-Apex-Green-EventCloud)]([https://github.com/MarekOleksik/Camp-Apex-Green-Guardian](https://github.com/MarekOleksik/Camp-Apex-EventCloud))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarekOleksik&repo=Camp-Apex-Green-EventCloud)](https://github.com/MarekOleksik/Camp-Apex-EventCloud)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarekOleksik&show_icons=true&theme=radical&count-private=true)
 

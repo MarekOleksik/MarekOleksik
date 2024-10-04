@@ -2,7 +2,7 @@
 My name is Marek Oleksik, and I am passionate about Salesforce solutions and programming. I hold six Salesforce certifications, confirming my advanced knowledge and skills in the Salesforce platform. Additionally, I completed postgraduate studies at the Warsaw University of Technology, where I gained expertise in Java programming, expanding my technical competencies. My experience includes working on Salesforce implementation projects and developing applications on this platform. With my acquired skills, I can effectively design, customize, and optimize CRM solutions, ensuring clients receive the best support and business efficiency. I am motivated to continually grow and explore new opportunities to create innovative and valuable solutions for clients.
 
 <!--TH_Stats:start-->
-![Trailhead-Stats](images/TScard.png)
+undefined
 <!--TH_Stats:end-->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarekOleksik&repo=Camp-Apex-Green-Guardian)](https://github.com/MarekOleksik/Camp-Apex-Green-Guardian)

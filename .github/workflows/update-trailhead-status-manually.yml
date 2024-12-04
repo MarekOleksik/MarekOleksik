@@ -17,8 +17,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - uses: nabondance/trailhead-stats@v2
-        permissions:
-          contents: write
         with:
           trailhead-username: 'moleksik'
           display-type: 'card'
